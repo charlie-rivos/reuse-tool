@@ -151,3 +151,4 @@ Contributors
 - Сергій <sergiy.goncharuk.1@gmail.com>
 - Mersho <code.rezaei@gmail.com>
 - Skyler Grey <sky@a.starrysky.fyi>
+- Charlie Jenkins <charlie@rivosinc.com>
